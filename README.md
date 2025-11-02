@@ -1,5 +1,7 @@
 # Homebrew Tap for acamino
 
+[![CI](https://github.com/acamino/homebrew-tap/actions/workflows/ci.yml/badge.svg)](https://github.com/acamino/homebrew-tap/actions)
+
 This tap provides Homebrew formulas for my tools.
 
 ## Installation
